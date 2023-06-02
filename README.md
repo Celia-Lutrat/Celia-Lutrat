@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Celia-Lutrat, I'm a French PhD student (she/her).
-- 👀 I’m interested in mosquito biology and genetic engineering, especially related to vector control approaches. 
+- 👋 Hi, I’m @Celia-Lutrat, I'm a French postdoctoral researcher.
+- 👀 I’m interested in insect biology and genetic engineering. I've worked on mosquito control approaches and I am currently working on caste determination in ants. 
 - 🌱 I’m currently learning bases of bioinformatics (R, Python, bash) for making my analyses easier (spoiler: it does not) and more reliable (ok, it does).
 - 💞️ I’m looking to collaborate on anything related to this (at the moment my contributions are small though).
 - 📫 Do not hesitate to e-mail me at celia.lutrat@outlook.com or DM me on Twitter at @CeliaLutrat !
